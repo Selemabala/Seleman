@@ -1,0 +1,81 @@
+.name
+{
+      font-size: 60px;
+      font-family:"Black Ops One", Georgia, 'Times New Roman';
+      color:red;
+      font-weight: 600;
+      text-align: center;
+}
+
+.profile
+
+{
+      font-size: 16;
+      font-family: Tahoma;
+      color: blue;
+      display: block;
+      
+      
+}
+
+.picha
+{
+      width: 200px;
+      height: 300px;
+      border-radius: 100px;
+      border-color: red;
+      border-style: solid;
+      margin-left: auto;
+      margin-right: auto;
+      display: block;
+      
+      
+     
+      
+
+}
+
+.search
+{
+      color: red;
+      margin-left: auto;
+      margin-right: auto;
+      border: none;
+      padding-top: 12px;
+      padding-bottom: 12px;
+      padding-left: 16px;
+      padding-right: 16px;
+      font-size: 16px;
+      width: 200px;
+      border-radius: 50px;
+      box-shadow: 0 1px 6px rgba(141, 20, 20, 0.2);
+      display: block;
+      box-shadow: inset 1x 2x 3x rgba(red, green, blue, alpha);
+      
+  
+}
+
+
+
+.thanks
+{
+      display: inline-block;
+      width: 400px;
+      vertical-align: middle;
+      margin-right: 50px;
+      font-size: 16;
+      font-family: Tahoma;
+      color: blue;
+
+}
+
+.yesno 
+{
+      padding-top: 12px;
+      padding-bottom: 12px;
+      padding-left: 16px;
+      padding-right: 16px; 
+      color: blue;
+      border-radius: 40px;
+
+}
